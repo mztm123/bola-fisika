@@ -1,0 +1,93 @@
+﻿play=Main
+settings=Penganturan
+stats=Statistik
+about=Tentang
+music=Musik
+effects=Efek
+volume=Volume
+graphics=Graphics
+low=Low
+medium=Medium
+high=High
+info=Fizbol dikembangkan dengan tujuan membantu siswa mempelajari dasar-dasar Fisika sambil bersenang-senang. Untuk saran dan keluhan, silakan email ke pengembang.
+thanks=Thanks!
+devs=Developers
+continue=Lanjutkan
+close=Tutup
+ok=Ok
+music_and_effects=Musik dan Efek:\nGianni Caratelli\nwww.zapsplat.com
+
+tutorial_1_title=Selamat Datang di Tutorial!
+tutorial_1_hint=Kami merekomendasikan Anda untuk melihat tutorial jika ini pertama kali Anda bermain.
+tutorial_dont_show=Jangan tampilkan lagi
+tutorial_2_title=Memulai Permainan
+tutorial_2_content=Kita memulai sebagai kiper. Tujuan kita adalah menjawab pertanyaan fisika untuk melemparkan bola kepada rekan satu tim dan akhirnya mencetak gol. Rekan satu tim yang dapat Anda lemparkan memiliki tanda kuning di atas kepala mereka. Silakan pilih rekan satu tim.
+tutorial_3_title=Bergerak dan Menempatkan Posisi
+tutorial_3_content=Setelah memilih rekan satu tim untuk dilemparkan, Anda memiliki 5 detik untuk bergerak dan menempatkan posisi pemain Anda.
+tutorial_4_title=Menjawab Pertanyaan dan Melempar
+tutorial_4_content=Setelah berada dalam posisi, pertanyaan akan muncul. Menekan tombol 'Y' akan memperbarui pertanyaan (maksimal 3 kali). Menekan '?' akan menampilkan layar petunjuk.
+tutorial_5_title=Layar 2D
+tutorial_5_content=Menekan tombol '2D/3D' di sudut kanan atas akan mengalihkan mode kamera. Kami merekomendasikan mode 2D karena mirip dengan tampilan pertanyaan di buku pelajaran.
+tutorial_6_content=Anda memiliki 3 kesempatan untuk menjawab pertanyaan. Jika Anda memberikan 3 jawaban yang salah, permainan akan menampilkan jawaban yang benar. Catatan: Setelah jawaban yang benar ditampilkan, memberikan jawaban yang benar tidak akan dihitung sebagai jawaban benar dalam statistik.
+tutorial_6_title=Jawaban Salah
+tutorial_7_title=Jawaban Benar
+tutorial_7_content=Ketika Anda memberikan jawaban yang benar, pemain Anda berhasil melempar bola dengan sukses.\nTips: Lintasan bola diatur sesuai dengan jawaban. Contohnya, jika jawaban Anda lebih tinggi dari jawaban yang benar, bola akan melewati di atas dan melampaui rekan satu tim Anda.\n Apakah Anda siap untuk mencoba? Jangan lupa dengan tipsnya!
+tutorial_8_title=Menuju ke Depan dan Gol
+tutorial_8_content=Jawablah pertanyaan dengan sukses dan Anda akan mencapai pemain depan. Pilih salah satu target di sudut gawang dan bersiap-siap untuk mencetak gol!
+tutorial_9_title=Kata-kata Akhir...
+tutorial_9_content=Setelah permainan berakhir, Anda dapat memeriksa statistik harian dan bulanan Anda di layar "Statistik" dalam menu.\nSemoga Sukses!
+
+question_title=Question :
+question_answer_placeholder=Jawab
+question_kick=Tendang!
+play_again=Main Lagi
+returnto_menu=Menu
+
+stats_months_data='s Data
+stats_correct_answers=Jawaban Benar :
+stats_incorrect_answers=Jawaban Salah :
+stats_todays_data=Today's date\n
+stats_true_false=True/False
+stats_date=Tanggal
+
+january=January
+febuary=February
+march=march
+april=april
+may=may
+june=june
+july=july
+august=august
+september=september
+october=october
+november=november
+december=december
+
+
+Speed_AngleToMaxH=Berapa tinggi vertikal maksimum yang bisa dicapai oleh sebuah bola yang dilempar dengan sudut {1} dan kecepatan {0} m/s?
+Speed_AngleToMaxX=Berapa jarak maksimum yang bisa dicapai oleh sebuah bola yang dilempar dengan sudut {1} dan kecepatan {0} m/s?
+Speed_AngleToFlightTime=Berapa detik yang dibutuhkan oleh sebuah bola yang dilempar dengan sudut {1} dan kecepatan {0} m/s untuk jatuh?
+MaxH_AngleToMaxX=Berapa jarak maksimum yang bisa dicapai oleh sebuah bola yang dilempar dengan sudut {1} dan ketinggian maksimum {0}m?
+MaxH_AngleToSpeed=Berapa kecepatan awal sebuah bola dengan ketinggian maksimum {0}m dan sudut {1} dalam m/s?
+MaxHToFlightTime=Berapa detik yang dibutuhkan bagi sebuah bola dengan ketinggian maksimum {0}m untuk jatuh?
+SpeedX_FlightTimeToSpeed=Jika sebuah bola dengan kecepatan horizontal {0} m/s membutuhkan {1} detik untuk jatuh, berapa kecepatan awalnya?
+Angle_Time_DistanceToSpeed=Jika sebuah bola dilempar dengan sudut {0} derajat terbang {2}m (horizontal) dalam {1} detik, berapa kecepatan awalnya?
+Speed_AngleToTc=Berapa detik yang dibutuhkan bagi sebuah bola untuk mencapai ketinggian maksimum jika dilempar dengan sudut {1} dan pada kecepatan {0} m/s?
+Speed_Time_AngleToHeight=Jika sebuah bola dilempar dengan kecepatan {0} m/s pada sudut {1} derajat, berapa tingginya setelah {2} detik?
+Speed_Time_AngleToDistance=Jika sebuah bola dilempar dengan kecepatan {0} m/s pada sudut {1} derajat, berapa jaraknya setelah {2} detik?
+SpeedYToMaxH=Berapa tinggi maksimum sebuah bola jika dilempar secara vertikal pada kecepatan {0} m/s?
+SpeedX_FlightTimeToDistance=Jika sebuah bola membutuhkan {1} detik untuk jatuh saat dilempar dengan kecepatan {0} m/s secara horizontal, berapa jarak maksimumnya?
+SpeedYToFlightTime=Berapa detik yang dibutuhkan bagi sebuah bola untuk jatuh jika kecepatan vertikalnya adalah {0} m/s?
+
+time_left=Time Left : 
+distance=Distance : x
+angle=Angle : 
+answer=Jawab
+kick=Tendang!
+
+
+incorrect=Salah!
+correct=Benar!
+change_question_exhausted=Kesempatan Habis!
+reveal_correct_answer=Nyawa Habis! Jawaban Benar:{0}.
+help=bantu
